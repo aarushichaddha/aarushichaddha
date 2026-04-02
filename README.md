@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarushi Chaddha</h1>
+<h1 align="center">👋Hi, I'm Aarushi Chaddha</h1>
 
 <h3 align="center">
   <a href="https://readme-typing-svg.herokuapp.com">

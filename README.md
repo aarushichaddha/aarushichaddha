@@ -1,5 +1,19 @@
-# 💫 About Me:
-👋 Hi, I'm Aarushi Chaddha!<br><br>🎓 I'm a Computer Science undergraduate at VIT with a strong foundation in Data Structures, Algorithms, and Backend Development.<br><br>💻 I love building scalable backend systems and working with modern technologies like Spring Boot, Microservices, and AI-powered applications.<br><br>🚀 Currently working on:<br>- Backend systems using Spring Boot & Microservices<br>- AI-powered applications with Spring AI & LLMs<br><br>🤝 Looking to collaborate on:<br>- Backend development projects<br>- Open-source contributions<br>- AI/ML-based applications<br><br>🧠 Currently learning:<br>- Advanced system design<br>- Cloud technologies (AWS)<br>- Scalable microservices architecture<br><br>💬 Ask me about:<br>- Java, DSA, OOPs<br>- Spring Boot & REST APIs<br>- Backend architecture & security (JWT, RBAC)<br><br>⚡ Fun fact:<br>I’ve solved 400+ DSA problems and love turning complex problems into simple solutions!
+<h1 align="center">Hi 👋, I'm Aarushi Chaddha</h1>
+
+<h3 align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&color=808080&lines=Backend+Developer;Spring+Boot+%7C+Microservices;AI+Enthusiast" />
+  </a>
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarushichaddha&label=Profile%20Views&color=6DB33F&style=flat" />
+</p>
+
+
+
+### 💫 About Me:
+🎓 I'm a Computer Science undergraduate at VIT with a strong foundation in Data Structures, Algorithms, and Backend Development.<br><br>💻 I love building scalable backend systems and working with modern technologies like Spring Boot, Microservices, and AI-powered applications.<br><br>🚀 Currently working on:<br>- Backend systems using Spring Boot & Microservices<br>- AI-powered applications with Spring AI & LLMs<br><br>🤝 Looking to collaborate on:<br>- Backend development projects<br>- Open-source contributions<br>- AI/ML-based applications<br><br>🧠 Currently learning:<br>- Advanced system design<br>- Cloud technologies (AWS)<br>- Scalable microservices architecture<br><br>💬 Ask me about:<br>- Java, DSA, OOPs<br>- Spring Boot & REST APIs<br>- Backend architecture & security (JWT, RBAC)<br><br>⚡ Fun fact:<br>I’ve solved 400+ DSA problems and love turning complex problems into simple solutions!
 
 
 ## 🌐 Socials:
